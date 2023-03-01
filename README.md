@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 I'm learning software<br>🆘 I'm looking for help with coding
 
 
