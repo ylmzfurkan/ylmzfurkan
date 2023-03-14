@@ -10,8 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzfurkan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Alt Text](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.gif)
-
----
 [![](https://visitcount.itsvg.in/api?id=ylmzfurkan&icon=2&color=0)](https://visitcount.itsvg.in)
+
+![Alt Text](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.gif)
 
