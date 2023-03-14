@@ -13,5 +13,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![Alt Text](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ylmzfurkan&icon=2&color=0)](https://visitcount.itsvg.in)
+
