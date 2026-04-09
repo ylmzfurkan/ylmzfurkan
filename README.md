@@ -51,6 +51,5 @@ IDM Specialist by day, building AI-powered SaaS products by night. I designed, d
 ### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ylmzfurkan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/frknylmz.py)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@ylmzfurkan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/furkanyilmaz.dev)
 [![MyTalentPilot](https://img.shields.io/badge/MyTalentPilot-0d9488?style=flat&logoColor=white)](https://mytalentpilot.com)
